@@ -5,7 +5,7 @@ vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk3v.tok8888.com:8443/?type=tcp&en
 vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk4v.tok8888.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=safari&security=reality&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&sid=#Sv4_%40iSegaro%F0%9F%87%BA%F0%9F%87%B8
 vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk5v.tok8888.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=safari&security=reality&pbk=kHtBu5SWzLuz79nw0LkDkH4luWft_A-M6MNq4LA-RB4&sid=#Sv5_%40iSegaro%F0%9F%87%BA%F0%9F%87%B8
 vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk6v.tok8888.com:45445/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.webilop.com&fp=safari&security=reality&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&sid=#Sv6_%40iSegaro%F0%9F%87%BA%F0%9F%87%B8
-vless://%40iSeqaro@127.0.0.1:443/?type=tcp&encryption=none&flow=#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20t.me%2FiSeqaro
+
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.153.197.5:989#%F0%9F%87%B2%F0%9F%87%A9_MD_%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443/?type=ws&encryption=none&flow=&host=bitget1.asdasd.click&path=%2F%3Fed%3D2560fp%3Dchrome&security=tls&sni=bitget1.asdasd.click#%F0%9F%87%BA%F0%9F%87%B89%20%7C%20%204.6MB%2Fs%7CDisney%7COpenai
 hy2://5CBqBh6MeDq6GajcilBiDg%3D%3D@192.227.152.86:61001/?insecure=1&sni=192-227-152-86.nip.io#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%232
