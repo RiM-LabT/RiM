@@ -66,3 +66,7 @@ trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443/?type=ws&host=xX
 vless://8df60790-c903-4661-b85d-64c0009378e5@104.19.99.250:443/?type=ws&encryption=none&flow=&host=f1.parsa.filegear-sg.me&path=%2Ffp%3Dchrome&security=tls&sni=F1.paRsa.fiLegEar-Sg.Me#US_speednode_0257
 ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fcauejypbltqt%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 
+
+vless://087f8a66-f19a-4822-ba2f-a55debb29d94@164.138.202.139:10777?type=tcp&security=none#%E2%9A%A1%40VpnTV-6
+
+
